@@ -1,0 +1,344 @@
+Create a pixel-perfect, high-fidelity, production-ready Figma landing page for an Online Supermarket Shopping Platform called "FreshMart".
+
+Business Overview:
+
+FreshMart allows customers to browse grocery products online, add items to cart, place orders, and receive home delivery. Every order is reviewed and confirmed by the supermarket owner before delivery to ensure product availability, order accuracy, and customer satisfaction.
+
+Design Goal:
+
+Create a premium, modern, trustworthy grocery delivery platform that looks comparable to Blinkit, Zepto, Instamart, BigBasket, and Instacart. The design should feel like a real startup ready for launch, not a wireframe, template, student project, or generic AI-generated design.
+
+Visual Style:
+
+* Clean and modern UI
+* Premium ecommerce design
+* White background
+* Primary Green: #22C55E
+* Secondary Orange: #F97316
+* Dark Text: #111827
+* Light Background: #F9FAFB
+* Modern typography (Inter or Poppins)
+* Rounded corners (16px–24px)
+* Soft shadows
+* Large whitespace
+* Modern illustrations
+* Real grocery product imagery
+* Friendly and trustworthy appearance
+
+Layout Requirements:
+
+* Desktop width: 1440px
+* Use a professional 12-column grid
+* Use an 8px spacing system
+* Use Auto Layout for every component
+* Fully responsive design
+* Consistent visual hierarchy
+* Developer-friendly structure
+
+Typography Hierarchy:
+
+* H1: 56px Bold
+* H2: 40px Bold
+* H3: 28px Semi-Bold
+* Body: 18px Regular
+* Small Text: 14px
+
+================================================
+
+SECTION 1: STICKY NAVIGATION BAR
+
+Include:
+
+* FreshMart logo
+* Home
+* Categories
+* Features
+* How It Works
+* Testimonials
+* Contact
+
+Right Side:
+
+* Search icon
+* Cart icon
+* Shop Now button
+
+Navigation should remain sticky while scrolling.
+
+================================================
+
+SECTION 2: HERO SECTION
+
+Create a visually impressive hero section.
+
+Headline:
+
+"Fresh Groceries Delivered To Your Doorstep"
+
+Subheadline:
+
+Order groceries online in minutes. Browse products, place orders, and enjoy fast home delivery with owner-verified order confirmation.
+
+CTA Buttons:
+
+* Shop Now
+* Browse Categories
+
+Trust Indicators:
+
+* 10,000+ Orders Delivered
+* 5,000+ Happy Customers
+* 30 Minute Average Delivery
+* 4.9 Star Rating
+
+Hero Illustration:
+
+* Grocery delivery rider
+* Mobile ordering screen
+* Fruits and vegetables
+* Shopping cart
+* Happy customer
+
+Add floating UI cards showing:
+
+* Order confirmed
+* Delivery status
+* Customer ratings
+
+================================================
+
+SECTION 3: FEATURES SECTION
+
+Title:
+
+"Why Customers Choose FreshMart"
+
+Display 6 premium feature cards:
+
+1. Fast Delivery
+2. Fresh Products
+3. Owner Verified Orders
+4. Secure Payments
+5. Easy Online Ordering
+6. Real-Time Order Tracking
+
+Each card should include:
+
+* Modern icon
+* Short description
+* Hover effect
+* Equal height cards
+
+================================================
+
+SECTION 4: HOW IT WORKS
+
+Title:
+
+"Order In Just 4 Simple Steps"
+
+Visual Timeline:
+
+1. Browse Products
+2. Add To Cart
+3. Place Order
+4. Owner Confirms & Delivers
+
+Use connected timeline graphics.
+
+================================================
+
+SECTION 5: PRODUCT CATEGORIES
+
+Title:
+
+"Shop By Category"
+
+Create large category cards with real images:
+
+* Fresh Fruits
+* Fresh Vegetables
+* Dairy Products
+* Bakery Items
+* Snacks
+* Beverages
+* Household Essentials
+* Rice & Grains
+
+Each card should include:
+
+* Category image
+* Product count
+* Hover animation
+
+================================================
+
+SECTION 6: FEATURED PRODUCTS
+
+Title:
+
+"Popular Products"
+
+Display professional product cards showing:
+
+* Product image
+* Product name
+* Price
+* Discount badge
+* Rating
+* Add To Cart button
+
+Include at least 8 products.
+
+================================================
+
+SECTION 7: ORDER CONFIRMATION WORKFLOW
+
+Title:
+
+"Every Order Is Personally Verified"
+
+Create a visual workflow:
+
+Customer Places Order
+↓
+Store Owner Reviews Order
+↓
+Stock Availability Check
+↓
+Order Confirmation
+↓
+Packing
+↓
+Delivery Assignment
+↓
+Delivered To Customer
+
+Use professional workflow graphics.
+
+================================================
+
+SECTION 8: CUSTOMER TESTIMONIALS
+
+Title:
+
+"What Our Customers Say"
+
+Display 6 premium review cards.
+
+Each review includes:
+
+* Customer photo
+* Customer name
+* Star rating
+* Review text
+
+Add customer satisfaction statistics:
+
+* 4.9 Average Rating
+* 98% Satisfaction Rate
+
+================================================
+
+SECTION 9: FAQ SECTION
+
+Accordion style layout.
+
+Questions:
+
+* How does ordering work?
+* How long does delivery take?
+* How are orders confirmed?
+* What payment methods are accepted?
+* Can I cancel an order?
+* Do you offer same-day delivery?
+
+================================================
+
+SECTION 10: FINAL CTA SECTION
+
+Full-width premium banner.
+
+Headline:
+
+"Ready To Order Fresh Groceries Online?"
+
+Subheadline:
+
+Experience convenient grocery shopping with fresh products and fast delivery.
+
+Buttons:
+
+* Shop Now
+* Contact Us
+
+Use premium gradient background.
+
+================================================
+
+SECTION 11: FOOTER
+
+Professional multi-column footer.
+
+Column 1:
+Company
+
+Column 2:
+Categories
+
+Column 3:
+Support
+
+Column 4:
+Contact Information
+
+Include:
+
+* Email
+* Phone Number
+* Delivery Areas
+* Store Timings
+* Social Media Icons
+
+================================================
+
+QUALITY CONTROL REQUIREMENTS (VERY IMPORTANT)
+
+The design must be production-ready and completely free from visual glitches.
+
+Strict Rules:
+
+* No overlapping elements.
+* No broken layouts.
+* No clipped text.
+* No overflowing content.
+* No stretched images.
+* No duplicate sections.
+* No inconsistent spacing.
+* No inconsistent button sizes.
+* No misaligned cards.
+* No visual bugs.
+* No empty placeholder blocks.
+* No low-quality graphics.
+* No content touching screen edges.
+
+Responsive Requirements:
+
+* Desktop Layout (1440px)
+* Tablet Layout (768px)
+* Mobile Layout (390px)
+
+All layouts must adapt correctly without breaking.
+
+Final Requirements:
+
+* Pixel-perfect alignment.
+* Consistent spacing throughout.
+* Professional ecommerce appearance.
+* Realistic grocery imagery.
+* Accessibility-friendly contrast.
+* Production-ready UI.
+* Developer-friendly structure.
+* Ready for direct export to Figma and conversion into HTML/CSS without redesign.
+
+Before generating the final design, automatically review and fix any alignment, spacing, typography, responsiveness, or visual consistency issues.
